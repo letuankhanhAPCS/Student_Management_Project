@@ -1,0 +1,6 @@
+5
+1,CS162,Introduction to Computer Science II ,18CTT1,dbtien,Dinh Ba Tien,13/01/2019,20/04/2019,Tue,7:30,9:30,B11A
+2,MTH152,Calculus II,18CTT2,nhanh,Nguyen Huu Anh,13/01/2019,20/04/2019,Mon,9:30,11:30,I32
+3,PH212,General Physics II ,18CTT1,vththu,Vu Thi Hanh Thu,13/01/2019,20/04/2019,Wed,13:30,15:30,B44
+4,CTH001,Fundamental principles of  Marxism and Leninism,18CTT3,nnthu,Nguyen Ngoc Thu,13/01/2019,20/04/2019,Wed,7:30,9:30,I71
+5,TC001,Physical Education,18CLC4,nvthai,Nguyen Van Thai,13/01/2019,20/04/2019,Thu,7:30,9:30,Phu Tho Stadium
